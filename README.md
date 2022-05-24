@@ -13,4 +13,6 @@ Course certificate : https://www.coursera.org/account/accomplishments/certificat
 
 ## Course 2 : Mathematics for Machine Learning: Multivariate Calculus
 
+Course certificate : https://www.coursera.org/account/accomplishments/certificate/RJ8GB3MM7TN7
+
 ## Course 3 : Mathematics for Machine Learning: PCA

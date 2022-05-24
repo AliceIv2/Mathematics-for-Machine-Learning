@@ -4,6 +4,8 @@ Programming assignments from The Mathematics for Machine Learning Specialization
 
 Link: https://www.coursera.org/specializations/mathematics-machine-learning
 
+Specialization certificate : https://www.coursera.org/account/accomplishments/specialization/certificate/XKSBJ9GDMGME
+
 
 # Courses : 
 
@@ -16,3 +18,5 @@ Course certificate : https://www.coursera.org/account/accomplishments/certificat
 Course certificate : https://www.coursera.org/account/accomplishments/certificate/RJ8GB3MM7TN7
 
 ## Course 3 : Mathematics for Machine Learning: PCA
+
+Course certificate : https://www.coursera.org/account/accomplishments/certificate/WHBPY94KBWDE
